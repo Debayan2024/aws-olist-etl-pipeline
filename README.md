@@ -1,1 +1,0 @@
-# aws-olist-etl-pipeline
